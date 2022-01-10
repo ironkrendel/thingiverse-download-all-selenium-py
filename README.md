@@ -6,6 +6,6 @@ If your browser is an older version download webdriver that suits your version f
 
 #==========================================================================
 
-Parametr download_folder in cfg.ini need to be full path to folder without quotes
+Parameter download_folder in cfg.ini need to be full path to folder without quotes
 
-Parametr ethernet_speed in cfg.ini is in mb/s
+Parameter ethernet_speed in cfg.ini is in mb/s
